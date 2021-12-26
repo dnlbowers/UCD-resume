@@ -3,6 +3,8 @@ Notes for after
 cut up super hero image so the text is separate and user boot strap to make 3 rows in the image window
 colour scheme https://color.adobe.com/mythemes?viewTheme
 
+image https://www.istockphoto.com/vector/pop-art-comic-book-style-superhero-taking-action-with-problem-solving-strategy-gm1208413317-349282402
+
 
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
