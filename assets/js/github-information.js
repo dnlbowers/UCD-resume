@@ -18,7 +18,7 @@ function userInformationHTML(user) {
 
 function repoInformationHTML(repos) {
     if (repos.length == 0) {
-        return `<div class="clearFix repo-list">No Repos!</div>`;
+        return `<div class="clearfix repo-list">No Repos!</div>`;
     }
 
     var listItemHTML = repos.map(function(repo) {
@@ -27,7 +27,7 @@ function repoInformationHTML(repos) {
         </li>`
     })
 
-    return `<div class="clearFix repo-list">
+    return `<div class="clearfix repo-list">
         <p>
             <strong>Repo List</strong>
         </p>
